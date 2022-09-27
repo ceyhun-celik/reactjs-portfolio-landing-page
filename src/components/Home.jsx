@@ -7,13 +7,10 @@ const Home = () => {
     <div name="home" className='h-screen w-full bg-gradient-to-b via-black from-black to-gray-800'>
         <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
-                <h2 className='text-4xl sm:text-7xl font-bold text-white'>I am Full Stack Developer</h2>
+                <h2 className='text-4xl sm:text-7xl font-bold text-white'>Full Stack Developer</h2>
 
                 <p className='text-gray-500 py-4 max-w-md'>
-                    I have 1 years of experience building softwares. My biggest
-                    passion is develop Products that people can use with little/no
-                    effort. I am experienced PHP 🐘 and JavaScript and using
-                    Laravel, React.js and Tailwind CSS.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, cumque similique! Impedit natus quae velit dolorum aliquid, dolor dolores et, a assumenda ea placeat deserunt voluptas eligendi praesentium alias distinctio?
                 </p>
 
                 <div>
