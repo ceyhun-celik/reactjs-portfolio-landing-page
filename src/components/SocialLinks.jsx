@@ -7,7 +7,7 @@ import SocialLinksLi from './SocialLinksLi'
 
 const SocialLinks = () => {
     return (
-        <div className='flex flex-col top-[35%] left-0 fixed'>
+        <div className='hidden lg:flex flex-col top-[35%] left-0 fixed'>
             <ul>
                 <SocialLinksLi name="LinkedIn" icon={<FaLinkedin size={30} />} href="#" />
                 <SocialLinksLi name="GitHub" icon={<FaGithub size={30} />} href="#" />
